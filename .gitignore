@@ -1,0 +1,8 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+# Local-only editor: do not deploy to public web
+edit.html
